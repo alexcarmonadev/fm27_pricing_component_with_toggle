@@ -1,13 +1,13 @@
 # Frontend Mentor - Pricing component with toggle solution
 
-:point_right: This is the [Pricing component with toggle](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Pricing component with toggle](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-9aW2-S4H3) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm27_pricing_component_with_toggle/)
 
 Give a ⭐️ if you like this project!
 
